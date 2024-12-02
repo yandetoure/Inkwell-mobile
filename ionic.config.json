@@ -1,0 +1,7 @@
+{
+  "name": "Inkwell",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
